@@ -1,0 +1,28 @@
+################################################################################
+#
+#  Whether NcmObjArray is empty
+#
+#
+[NcmObjArray]
+empty=false
+
+[ARRAY:ELEMENT:0]
+OBJECT:NAME=NcmMSetFuncList[S0]
+################################################################################
+#
+#  Number of variables
+#
+#
+nvariables=uint32 0
+################################################################################
+#
+#  Function dimension
+#
+#
+dimension=uint32 1
+################################################################################
+#
+#  Namespace and function name
+#
+#
+full-name='NcHICosmoDE:Omega_x0'
